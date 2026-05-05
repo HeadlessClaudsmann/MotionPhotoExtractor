@@ -26,7 +26,7 @@ Download Python from [python.org](https://python.org) if you don't have it.
 ## Installation
 
 ```bash
-git clone https://github.com/LucheGames/MotionPhotoExtractor.git
+git clone https://github.com/HeadlessClaudsmann/MotionPhotoExtractor.git
 cd MotionPhotoExtractor
 ```
 
